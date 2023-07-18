@@ -4,7 +4,7 @@ Tools to help build a conforming server for the Lichat chat protocol
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shirakumo/lichat-serverlib.git   |
-| commit  | ac80022  |
+| commit  | c35d895  |
 | systems | lichat-serverlib |
 |---------+-------------------------------------------|
 
