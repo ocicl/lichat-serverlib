@@ -7,4 +7,4 @@ Tools to help build a conforming server for the Lichat chat protocol
 | commit  | f8c0cc9                                                 |
 | systems | lichat-serverlib                                        |
 |---------+---------------------------------------------------------|
- 
+  
